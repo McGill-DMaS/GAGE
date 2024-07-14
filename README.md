@@ -4,7 +4,7 @@
 
 M. Saqib, B. C. M. Fung, P. Charland, and A. Walenstein. GAGE: genetic algorithm-based graph explainer for malware analysis. In Proceedings of the 40th IEEE International Conference on Data Engineering (ICDE), pages 2258-2270, Utrecht, Netherlands: IEEE Computer Society, May 2024.
 
-@inproceedings{SFCW24icde,
+@inproceedings{SFCW24icde,<br>
 author = "M. Saqib and B. C. M. Fung and P. Charland and A. Walenstein",
 title = "{GAGE}: Genetic Algorithm-based Graph Explainer for Malware Analysis",
         booktitle = "Proc. of the 40th IEEE International Conference on Data Engineering (ICDE),
@@ -14,6 +14,7 @@ title = "{GAGE}: Genetic Algorithm-based Graph Explainer for Malware Analysis",
         year = "2024",
         publisher = "IEEE Computer Society",
 }
+
 
 ## Overview
 
