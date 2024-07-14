@@ -4,16 +4,18 @@
 
 M. Saqib, B. C. M. Fung, P. Charland, and A. Walenstein. GAGE: genetic algorithm-based graph explainer for malware analysis. In Proceedings of the 40th IEEE International Conference on Data Engineering (ICDE), pages 2258-2270, Utrecht, Netherlands: IEEE Computer Society, May 2024.
 
-@inproceedings{SFCW24icde,<br>
+```plaintext
+@inproceedings{SFCW24icde,
 author = "M. Saqib and B. C. M. Fung and P. Charland and A. Walenstein",
 title = "{GAGE}: Genetic Algorithm-based Graph Explainer for Malware Analysis",
-        booktitle = "Proc. of the 40th IEEE International Conference on Data Engineering (ICDE),
-        pages = "2258-2270",
-        address = "Utrecht, Netherlands",
-        month = "May",
-        year = "2024",
-        publisher = "IEEE Computer Society",
+booktitle = "Proc. of the 40th IEEE International Conference on Data Engineering (ICDE)",
+pages = "2258-2270",
+address = "Utrecht, Netherlands",
+month = "May",
+year = "2024",
+publisher = "IEEE Computer Society",
 }
+```
 
 
 ## Overview
@@ -55,20 +57,9 @@ GAGE is a tool designed for malware analysis using genetic algorithms to explain
 - **blockFeatureGenerator.py**: Generates block features for the graphs.
 - **utility.py**: General utility functions used across different scripts.
 
-## Authors
-Mohd Saqib - mohd.saqib@mail.mcgill.ca
-
-Benjamin C. M. Fung - ben.fung@mcgill.ca
-
-Philippe Charland - philippe.charland@drdc-rddc.gc.ca
-
-Andrew Walenstein - walenste@ieee.org
 
 ## Acknowledgments
-This research is supported by BlackBerry Limited (ALLRP 561035), Defence Research & Development Canada, and NSERC Alliance Grants (ALLRP 561035-20)
-
-## License
-This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/.
+GAGE was developed by Mohd Saqib under the supervision of Benjamin C. M. Fung, in the McGill Data Mining and Security Lab in Canada. It is distributed under the Creative Commons Attribution-NonCommercial 4.0 International License (for detail click [here!](https://github.com/McGill-DMaS/GAGE?tab=License-1-ov-file)). This research is supported by BlackBerry Limited (ALLRP 561035), Defence Research & Development Canada, and NSERC Alliance Grants (ALLRP 561035-20). Special thanks to Philippe Charland and Andrew Walenstein.
 
 ## Disclaimer
 The software is provided as-is with no warranty or support. We do not take any responsibility for any damage, loss of income, or any problems you might experience from using our software. If you have questions, you are encouraged to consult the paper and the source code. If you find our software useful, please cite our paper above.
